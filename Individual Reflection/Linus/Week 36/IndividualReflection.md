@@ -1,7 +1,5 @@
 Individual reflection week 1 (Linus Aronsson)
 
-In the individual reflection, please address the following questions, using the A, B, A -> B reflective loop as described above:
-
 * what do I want to learn or understand better?
 
 I nuläget är jag intresserad av att lära mig hur Scrum samt android utveckling fungerar eftersom det är aktuellt för detta projekt.
