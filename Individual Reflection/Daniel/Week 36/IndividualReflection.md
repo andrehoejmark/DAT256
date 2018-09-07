@@ -6,4 +6,4 @@
 
 - Mitt bidragande till veckans Scrum i Lego-övningen var att försöka påminna gruppen om att utföra Scrum enligt dess principer och inte skena iväg för mycket men jag var inte utsedd till Scrum Master. Jag vill bli tränad i Scrum och tror att mitt bidragande blir bättre efter varje försök genom erfarenhet.
 
-- Under veckan bidrog jag mest med att kontrollera vad varje person gjorde och föreslog hur vissa aspekter som kommunikation och planering kunde förbättras. Jag byggde även moduler som kunde appliceras på huvuddelen av bygget. Det tog dock flera sprinter innan jag nådde toppen av bidragandegraden. För att nå högre bidragandegrad tidigare vill jag memorera tidigare erfarenheter och applicera det som fungerat bra tidigare.
+- Under veckan bidrog jag mest med att kontrollera vad varje person gjorde och föreslog hur vissa aspekter som kommunikation och planering kunde förbättras. Jag byggde även moduler som kunde appliceras på huvuddelen av bygget. Det tog dock flera sprinter innan jag nådde toppen av bidragandegraden. För att nå högre bidragandegrad tidigare vill jag memorera tidigare erfarenheter och applicera det som fungerat bra.
