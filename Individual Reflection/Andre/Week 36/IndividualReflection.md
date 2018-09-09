@@ -3,12 +3,15 @@
 In the individual reflection, please address the following questions, using the A, B, A -> B reflective loop as described above:
 
 - what do I want to learn or understand better?
+
 Jag vill lära mig scrum tillräckligt bra för att det ska sitta i minnet.
 
 - how can I help someone else, or the entire team, to learn something new?
+
 Vi kan diskutera problemet där jag delar med mig av min tankegång och funderingar.
 
 - what is my contribution towards the team’s application of Scrum?
+
 Jag är delaktiv i diskutionerna och strävar efter att upprätthålla scrumreglerna.
 
 - what is my contribution towards the team’s deliveries?
