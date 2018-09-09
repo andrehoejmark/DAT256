@@ -11,7 +11,7 @@ Vi kan diskutera problemet där jag delar med mig av min tankegång och funderin
 - what is my contribution towards the team’s application of Scrum?
 Jag är delaktiv i diskutionerna och strävar efter att upprätthålla scrumreglerna.
 
-- what is my contribution towards the team’s deliveries?
+- what is my contribution towards the team’s deliveries? <\b>
 Jag arbetar på mina tilldelade uppgifter och om jag får problem delar jag med mig om detta. 
 
 
